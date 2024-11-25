@@ -1,3 +1,2 @@
 # javascript
-Treinando
-Neste repositório contém conteúdos para prática relacionado a javascript
+Treinando, neste repositório contém conteúdos para prática relacionado a JavaScript
